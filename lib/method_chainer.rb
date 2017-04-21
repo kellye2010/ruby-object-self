@@ -26,3 +26,4 @@ class MethodChainer
 end
 
 # string = MethodChainer.new("apple")
+# string is an object that is an instance of the the MethodChainer class object (Yes, they are both objects; string is an object of the object MethodChainer)
